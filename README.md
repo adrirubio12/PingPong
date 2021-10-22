@@ -1,1 +1,1 @@
-# PinPong
+# PingPong
